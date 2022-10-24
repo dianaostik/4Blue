@@ -1,0 +1,30 @@
+body {
+    background-color: #e1faff;
+}
+
+h1 {
+    text-align: center;
+    color: #4f3cbc;
+    font-family: Verdana,Geneva,sans-serif; 
+}
+
+button {
+    margin-left: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #4f3cbc;
+    background-color: #33cdd7;
+}
+
+p {
+    padding-left: 10px;
+    font-size: small;
+    text-align: center;
+    font-family: Verdana,Geneva,sans-serif; 
+    color: #4f3cbc;
+}
+
+#left {
+    font-family: Verdana, sans-serif;
+    padding-top: 80px;
+}
